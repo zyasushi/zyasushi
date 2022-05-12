@@ -3,6 +3,3 @@
   <img height="131em" src="https://github-readme-stats.vercel.app/api?username=zyasushi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyasushi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div>
-![Snake animation](https://github.com/zyasushi/zyasushi)
-</div>

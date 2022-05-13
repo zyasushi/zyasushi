@@ -13,6 +13,6 @@
  <details style='text-align: center;' align='center'>
   <summary> Click Here </summary>
   <p style="text-align: center;"align="center">============================================================</p>
-    <img align="center" src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" alt="GIF"></a>
+    <a href="https://www.youtube.com/watch?v=lTRiuFIWV54" target="blank"><img align="center" src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" alt="GIF"></a>
   <p style="text-align: center;"align="center">============================================================</p>
 </details>

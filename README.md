@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Ydeal Tecnologia](https://www.ydealtecnologia.com.br/)
 
-- 🌱 I’m currently learning **HTML, CSS, BOOSTRAP, MySQL, PHP and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP, MySQL, PHP and JavaScript**
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zyasushi&theme=dracula&show_icons=true" alt="zyasushi"></p>
 

@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, MySQL, PHP and JavaScript**
 
-<details>
+<!-- <details>
  <summary>GitHub Stats ✨</summary>
  <p><img src="https://github-readme-stats.vercel.app/api?username=zyasushi&theme=tokyonight&show_icons=true" alt="zyasushi"></p>
 </details>
@@ -12,7 +12,7 @@
 <details>
  <summary>Most Used Languages 🪐</summary>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyasushi&theme=tokyonight&layout=compact&card_width=450" alt="zyasushi"></p>
-</details>
+</details> -->
 
  <details>
   <summary>Lofi ☕</summary>
